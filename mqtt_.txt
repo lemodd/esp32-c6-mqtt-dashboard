@@ -1,0 +1,9 @@
+mqtt :
+
+SERVER = "your-mqtt.example.com"
+PORT = 8883
+
+USERNAME = 'your-username'
+PASSWORD = 'your-password'
+TOPIC = "esp32/office"
+STATUS_TOPIC = "esp32/state"
